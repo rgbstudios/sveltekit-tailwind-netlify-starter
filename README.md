@@ -6,6 +6,10 @@ Included:
 
 - Prettier and ESLint are included
 
+- Daisy UI
+
+- Tailwind Typography
+
 Not included:
 
 - Typescript is not included, and no testing frameworks are included
